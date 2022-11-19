@@ -8,6 +8,7 @@ public class EmployeeRequest {
     private int salary;
 
     public String getFirstName() {
+
         return firstName;
     }
 
@@ -16,6 +17,7 @@ public class EmployeeRequest {
     }
 
     public String getLastName() {
+
         return lastName;
     }
 
@@ -24,6 +26,7 @@ public class EmployeeRequest {
     }
 
     public int getDepartment() {
+
         return department;
     }
 
@@ -32,6 +35,7 @@ public class EmployeeRequest {
     }
 
     public int getSalary() {
+
         return salary;
     }
 
